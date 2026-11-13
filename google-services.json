@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271388562047",
+    "project_id": "apex-vision-shop",
+    "storage_bucket": "apex-vision-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271388562047:android:8d9d3672acd885e71a654a",
+        "android_client_info": {
+          "package_name": "com.apexvision.shopmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlwgS0aU7xq5nvdIF9g6Rz7y2WtNdZLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
